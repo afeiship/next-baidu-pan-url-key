@@ -3,7 +3,7 @@
  * description: Get baidu pan url and key.
  * homepage: https://github.com/afeiship/next-baidu-pan-url-key
  * version: 1.0.0
- * date: 2020-11-21 09:06:10
+ * date: 2020-11-21 09:09:30
  * license: MIT
  */
 
